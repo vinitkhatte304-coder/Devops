@@ -1,0 +1,30 @@
+What is git?
+Git is a version control system tool used to track changes in your code.
+//
+What is GitHub?
+GitHub is a Cloud Platform used to store source code in the form of repositories.
+//
+What is Repositories?
+A Repositories (Repo) is a folder or storage location used to store source code, files, and the history of changes of a project.
+//
+What is Token in GitHub?
+A GitHub Token is a secret key that allows your computer or application to access your GitHub account without  using your real password.
+//
+Git Config Commands:
+1. git config --global user.name "your name"
+2. git config --global user.email "your email"
+3. git config --list
+4. git config user.name
+5. git config user.email
+6. git add .
+7. git commit -m "commit"
+8. git remote remove origin 
+9. git remote add origin "url of repo"
+10. git push origin main/master
+11. git pull origin master --rebase
+12. git branch branch-name
+13. git branch
+14. git checkout branch-name
+15. git checkout -b branch-name
+16. git branch -d brnach-name
+17. git push origin --delete branchname
