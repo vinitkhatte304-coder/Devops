@@ -1,15 +1,15 @@
 What is Git?
 Git is a version control system tool used to track changes in your code.
-//
+
 What is GitHub?
 GitHub is a Cloud Platform used to store source code in the form of repositories.
-//
+
 What is Repositories?
 A Repositories (Repo) is a folder or storage location used to store source code, files, and the history of changes of a project.
-//
+
 What is Token in GitHub?
 A GitHub Token is a secret key that allows your computer or application to access your GitHub account without  using your real password.
-//
+
 Git Config Commands:
 1. git config --global user.name "your name"
 2. git config --global user.email "your email"
